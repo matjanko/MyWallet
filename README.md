@@ -1,0 +1,2 @@
+-   [MyWallet.Api](https://github.com/matjanko/MyWallet.Api)
+-   [MyWallet.Web](https://github.com/matjanko/MyWallet.Web)
